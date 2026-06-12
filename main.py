@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 import time
 import os
 
-
 load_dotenv()
 
 app = Flask(__name__)
